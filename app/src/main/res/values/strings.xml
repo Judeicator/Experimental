@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Experimental</string>
+    <string name="IntroductionHeader">Introduction</string>
+    <string name="TopicButton">Topics</string>
     <string name="introduction_text">
-
         "This page contains the general information\n"
         "regarding the application's use and its contents.\n\n"
 
@@ -11,8 +12,6 @@
 
         "Each topic should redirect you to a screen with your\n"
         "selected topic and all relevant information regarding it."
-
-
     </string>
     <string name="action_settings">Settings</string>
 </resources>

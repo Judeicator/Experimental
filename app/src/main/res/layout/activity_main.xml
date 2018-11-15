@@ -5,6 +5,7 @@
     android:id="@+id/constraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/BackgroundColor"
     android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
@@ -12,10 +13,11 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="19dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="3dp"
         android:layout_marginEnd="88dp"
-        android:text="Introduction"
+        android:text="@string/IntroductionHeader"
+        android:textColor="@color/Text"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button"
@@ -25,9 +27,9 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="15dp"
-        android:layout_marginTop="15dp"
-        android:text="Topics"
+        android:background="@color/ButtonColor"
+        android:text="@string/TopicButton"
+        android:textColor="@color/ButtonText"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
