@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Experimental</string>
+    <string name="introduction_text">
+
+        "This page contains the general information\n"
+        "regarding the application's use and its contents.\n\n"
+
+        "The 'Topics' button situated by the top left should\n"
+        "should bring you to a screen with various topics that\n"
+        "you may choose from.\n\n"
+
+        "Each topic should redirect you to a screen with your\n"
+        "selected topic and all relevant information regarding it."
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
