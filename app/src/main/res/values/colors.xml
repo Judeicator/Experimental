@@ -6,6 +6,6 @@
 
     <color name="BackgroundColor">#4f6565</color>
     <color name="Text">#f2fffa</color>
-    <color name="ButtonColor">#b8b8b8</color>
+    <color name="ButtonColor">#c9cace</color>
     <color name="ButtonText">#22271b</color>
 </resources>

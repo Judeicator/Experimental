@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BackgroundColor"
+    tools:context=".MenuActivity">
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="12dp"
+        android:background="@color/ButtonColor"
+        android:onClick="Back"
+        android:text="@string/MenuBackButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Tree1"
+        android:layout_width="387dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/ButtonColor"
+        android:text="@string/Tree1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/backButton" />
+
+    <Button
+        android:id="@+id/Tree2"
+        android:layout_width="387dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/ButtonColor"
+        android:text="@string/Tree2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Tree1" />
+
+    <Button
+        android:id="@+id/Tree3"
+        android:layout_width="387dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/ButtonColor"
+        android:text="@string/Tree3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Tree2" />
+
+    <Button
+        android:id="@+id/Tree4"
+        android:layout_width="387dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/ButtonColor"
+        android:text="@string/Tree4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Tree3" />
+</android.support.constraint.ConstraintLayout>

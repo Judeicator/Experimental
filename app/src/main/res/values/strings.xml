@@ -1,17 +1,69 @@
 <resources>
     <string name="app_name">Experimental</string>
+
     <string name="IntroductionHeader">Introduction</string>
+
     <string name="TopicButton">Topics</string>
+
+    <string name="MenuBackButton">Back</string>
+
     <string name="introduction_text">
-        "This page contains the general information\n"
-        "regarding the application's use and its contents.\n\n"
+        " This page contains the general information regarding the application's use and its contents.\n\n"
 
-        "The 'Topics' button situated by the top left should\n"
-        "should bring you to a screen with various topics that\n"
-        "you may choose from.\n\n"
+        "The general information contained in this  application are of trees found in the Philippines.\n\n"
 
-        "Each topic should redirect you to a screen with your\n"
-        "selected topic and all relevant information regarding it."
+        "The 'Topics' button situated by the top left should bring you to a screen with various topics that you may choose from.\n\n"
+
+        "Each topic should redirect you to a screen with your selected topic and all relevant information  regarding your chosen topic."
     </string>
+
     <string name="action_settings">Settings</string>
+
+    <string name="Tree1">BANI</string>
+
+    <string name="Text1">
+        "(Milletia pinnata; syn. Pongamia pinnata) A town in Pangasinan is named after the magnificent Bani."
+        "While it is native in southern and eastern Asia, and Australia,"
+        "Bani is also cultivated in Africa and the USA.A legume tree, Bani grows to about 15–25 meters in"
+        "height with a large canopy spreading wide. It may be deciduous (sheds it leaves) for short periods."
+        "It is often used as a windbreak or for shade due to the large canopy and showy fragrant flowers."
+        "Bani's flowers are small clusters of white, purple and pink. The flowers are used"
+        "by gardeners as compost for plants requiring rich nutrients. The wood is said to be beautifully"
+        "grained but splits easily when cut thus relegating it to firewood, posts, and tool handles."
+        "For thousands of years, its oil, known as pongamia oil, has been used as lamp oil, in soap making,"
+        "and as a lubricant."
+    </string>
+
+    <string name="Tree2">ILANG-ILANG</string>
+
+    <string name="Text2">
+        "(Cananga odorata) Ilang-ilang originates in the Philippines, Indonesia, and Malaysia. It is a medium-sized tree"
+        "reaching a height of up to 40 meters tall. When grown for perfume extraction, it is grown not"
+        "more than three meters tall for easy collection of the flowers. The flower is drooping, long-stalked,"
+        "with six narrow, greenish-yellow (rarely pink) petals, and produces a highly fragrant oil. It is often"
+        "strung with sampaguita to make leis offered in religious ceremonies. The famous Chanel No. 5 uses"
+        "extracts of the Ilang-ilang flowers."
+    </string>
+
+    <string name="Tree3">BANABA</string>
+
+    <string name="Text3">
+        "(Lagerstroemia speciosa) Banaba is native to tropical southern Asia. Known also as the Pride of India,"
+        "It is also widely cultivated as an ornamental plant in tropical and subtropical areas."
+        "The leaves of the Banaba and other parts are used widely in the Philippines, Taiwan, and Japan"
+        "for tea preparation. Each flower has six white to purple petals and blooms only once in a year"
+        "at the peak of summer. Banaba is also one of the 69 herbal plants promoted by the Department of Health (DOH)."
+    </string>
+
+    <string name="Tree4">MALABULAK</string>
+
+    <string name="Text4">
+        "(Bombax ceiba) Malabulak is often mistaken as the Fire Tree (Delonix regia) – originally from"
+        "Madagascar – or the Caballero (Caesalpinia pulcherrima) – introduced from tropical"
+        "America – because of its similarly vibrant red flowers. In Tagalog, it is also known as"
+        "Buboi-gubat, and Taglinau. It closely resembles the Kapok (Ceiba pentandrum) which is an"
+        "introduced species. Malabulak grows up to 25 meters. It sheds it leaves then gets covered"
+        "in beautiful red flowers that attract lots of insects and birds. Malabulak usually blooms in February."
+    </string>
+
 </resources>

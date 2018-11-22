@@ -1,16 +1,32 @@
 package jude.forcadas.com.experimental;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+
+    Button TopicButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        TopicButton = findViewById(R.id.topicButton);
+    }
+
+    public void Topic(View View){
+        Intent Shift;
+
+        if(TopicButton.getId() == R.id.topicButton){
+            Shift = new Intent(this, MenuActivity.class);
+            startActivity(Shift);
+        }
     }
 
     @Override
