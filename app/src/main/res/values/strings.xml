@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Experimental</string>
+    <string name="app_name">Trees</string>
 
     <string name="IntroductionHeader">Introduction</string>
 
@@ -8,62 +8,89 @@
     <string name="MenuBackButton">Back</string>
 
     <string name="introduction_text">
-        " This page contains the general information regarding the application's use and its contents.\n\n"
+        "Greetings!\n\n"
 
-        "The general information contained in this  application are of trees found in the Philippines.\n\n"
+        "This is an application developed by Judeicator for a project; this contains information regarding "Trees"\n\n"
 
-        "The 'Topics' button situated by the top left should bring you to a screen with various topics that you may choose from.\n\n"
+        "The button below will allow you to choose from various topics which contains… well information about them\n\n"
 
-        "Each topic should redirect you to a screen with your selected topic and all relevant information  regarding your chosen topic."
+        "Information are mostly text so… have fun!"
     </string>
 
     <string name="action_settings">Settings</string>
 
-    <string name="Tree1">BANI</string>
+    <string name="Menu1">What are Trees?</string>
 
     <string name="Text1">
-        "(Milletia pinnata; syn. Pongamia pinnata) A town in Pangasinan is named after the magnificent Bani."
-        "While it is native in southern and eastern Asia, and Australia,"
-        "Bani is also cultivated in Africa and the USA.A legume tree, Bani grows to about 15–25 meters in"
-        "height with a large canopy spreading wide. It may be deciduous (sheds it leaves) for short periods."
-        "It is often used as a windbreak or for shade due to the large canopy and showy fragrant flowers."
-        "Bani's flowers are small clusters of white, purple and pink. The flowers are used"
-        "by gardeners as compost for plants requiring rich nutrients. The wood is said to be beautifully"
-        "grained but splits easily when cut thus relegating it to firewood, posts, and tool handles."
-        "For thousands of years, its oil, known as pongamia oil, has been used as lamp oil, in soap making,"
-        "and as a lubricant."
+        "\t\tAlthough "tree" is a term of common parlance, there is no universally recognised precise definition of what a tree is, either botanically or in common language."
+        "In its broadest sense, a tree is any plant with the general form of an elongated stem, or trunk, which supports the photosynthetic leaves or branches at some distance above the ground."
+        "Trees are also typically defined by height, with smaller plants from 0.5 to 10 m (1.6 to 32.8 ft) being called shrubs, so the minimum height of a tree is only loosely defined. "
+        "Large herbaceous plants such as papaya and bananas are trees in this broad sense.\n"
+
+        "\t\tA commonly applied narrower definition is that a tree has a woody trunk formed by secondary growth, meaning that the trunk thickens each year by growing outwards, in addition to the primary upwards growth from the growing tip."
+        "Under such a definition, herbaceous plants such as palms, bananas and papayas are not considered trees regardless of their height, growth form or stem girth."
+        "Certain monocots may be considered trees under a slightly looser definition; while the Joshua tree, bamboos and palms do not have secondary growth and never produce true wood with growth rings, they may produce "pseudo-wood" by lignifying cells formed by primary growth.\n"
+
+        "\t\tAside from structural definitions, trees are commonly defined by use; for instance, as those plants which yield lumber."
     </string>
 
-    <string name="Tree2">ILANG-ILANG</string>
+    <string name="Menu2">Overview</string>
 
     <string name="Text2">
-        "(Cananga odorata) Ilang-ilang originates in the Philippines, Indonesia, and Malaysia. It is a medium-sized tree"
-        "reaching a height of up to 40 meters tall. When grown for perfume extraction, it is grown not"
-        "more than three meters tall for easy collection of the flowers. The flower is drooping, long-stalked,"
-        "with six narrow, greenish-yellow (rarely pink) petals, and produces a highly fragrant oil. It is often"
-        "strung with sampaguita to make leis offered in religious ceremonies. The famous Chanel No. 5 uses"
-        "extracts of the Ilang-ilang flowers."
+        "\t\tThe tree growth habit is an evolutionary adaptation found in different groups of plants: by growing taller, trees are able to compete better for sunlight. Trees tend to be tall and long-lived, some reaching several thousand years old. Several trees are among the oldest organisms now living. Trees have modified structures such as thicker stems composed of specialised cells that add structural strength and durability, allowing them to grow taller than many other plants and to spread out their foliage. They differ from shrubs, which have a similar growth form, by usually growing larger and having a single main stem; but there is no consistent distinction between a tree and a shrub, made more confusing by the fact that trees may be reduced in size under harsher environmental conditions such as on mountains and subarctic areas. The tree form has evolved separately in unrelated classes of plants in response to similar environmental challenges, making it a classic example of parallel evolution. With an estimated 60,000-100,000 species, the number of trees worldwide might total twenty-five per cent of all living plant species. The greatest number of these grow in tropical regions and many of these areas have not yet been fully surveyed by botanists, making tree diversity and ranges poorly known.\n"
+
+        "\t\tThe tree growth habit is an evolutionary adaptation found in different groups of plants: by growing taller, trees are able to compete better for sunlight. Trees tend to be tall and long-lived, some reaching several thousand years old. Several trees are among the oldest organisms now living. Trees have modified structures such as thicker stems composed of specialised cells that add structural strength and durability, allowing them to grow taller than many other plants and to spread out their foliage. They differ from shrubs, which have a similar growth form, by usually growing larger and having a single main stem; but there is no consistent distinction between a tree and a shrub, made more confusing by the fact that trees may be reduced in size under harsher environmental conditions such as on mountains and subarctic areas. The tree form has evolved separately in unrelated classes of plants in response to similar environmental challenges, making it a classic example of parallel evolution. With an estimated 60,000-100,000 species, the number of trees worldwide might total twenty-five per cent of all living plant species. The greatest number of these grow in tropical regions and many of these areas have not yet been fully surveyed by botanists, making tree diversity and ranges poorly known.\n"
+
+        "\t\tWood gives structural strength to the trunk of most types of tree; this supports the plant as it grows larger. The vascular system of trees allows water, nutrients and other chemicals to be distributed around the plant, and without it trees would not be able to grow as large as they do. Trees, as relatively tall plants, need to draw water up the stem through the xylem from the roots by the suction produced as water evaporates from the leaves. If insufficient water is available the leaves will die. The three main parts of trees include the root, stem, and leaves; they are integral parts of the vascular system which interconnects all the living cells. In trees and other plants that develop wood, the vascular cambium allows the expansion of vascular tissue that produces woody growth. Because this growth ruptures the epidermis of the stem, woody plants also have a cork cambium that develops among the phloem. The cork cambium gives rise to thickened cork cells to protect the surface of the plant and reduce water loss. Both the production of wood and the production of cork are forms of secondary growth.\n"
+
+        "\t\tTrees are either evergreen, having foliage that persists and remains green throughout the year, or deciduous, shedding their leaves at the end of the growing season and then having a dormant period without foliage. Most conifers are evergreens, but larches (Larix and Pseudolarix) are deciduous, dropping their needles each autumn, and some species of cypress (Glyptostrobus, Metasequoia and Taxodium) shed small leafy shoots annually in a process known as cladoptosis. The crown is a name for the spreading top of a tree including the branches and leaves, while the uppermost layer in a forest, formed by the crowns of the trees, is known as the canopy. A sapling is a young tree.\n"
+
+        "\t\tMany tall palms are herbaceous monocots; these do not undergo secondary growth and never produce wood. In many tall palms, the terminal bud on the main stem is the only one to develop, so they have unbranched trunks with large spirally arranged leaves. Some of the tree ferns, order Cyatheales, have tall straight trunks, growing up to 20 metres (66 ft), but these are composed not of wood but of rhizomes which grow vertically and are covered by numerous adventitious roots.\n"
+
     </string>
 
-    <string name="Tree3">BANABA</string>
+    <string name="Menu3">Distribution</string>
 
     <string name="Text3">
-        "(Lagerstroemia speciosa) Banaba is native to tropical southern Asia. Known also as the Pride of India,"
-        "It is also widely cultivated as an ornamental plant in tropical and subtropical areas."
-        "The leaves of the Banaba and other parts are used widely in the Philippines, Taiwan, and Japan"
-        "for tea preparation. Each flower has six white to purple petals and blooms only once in a year"
-        "at the peak of summer. Banaba is also one of the 69 herbal plants promoted by the Department of Health (DOH)."
+        "\t\tThe number of trees in the world, according to a 2015 estimate, is 3.04 trillion, of which 1.39 trillion (46%) are in the tropics or sub-tropics, 0.61 trillion (20%) in the temperate zones, and 0.74 trillion (24%) in the coniferous boreal forests. The estimate is about eight times higher than previous estimates, and is based on tree densities measured on over 400,000 plots. It remains subject to a wide margin of error, not least because the samples are mainly from Europe and North America. The estimate suggests that about 15 billion trees are cut down annually and about 5 billion are planted. In the 12,000 years since the start of human agriculture, the number of trees worldwide has decreased by 46%. \n"
+
+        "\t\tIn suitable environments, such as the Daintree Rainforest in Queensland, or the mixed podocarp and broadleaf forest of Ulva Island, New Zealand, forest is the more-or-less stable climatic climax community at the end of a plant succession, where open areas such as grassland are colonised by taller plants, which in turn give way to trees that eventually form a forest canopy. \n"
+
+        "\t\tIn cool temperate regions, conifers often predominate; a widely distributed climax community in the far north of the northern hemisphere is moist taiga or northern coniferous forest (also called boreal forest). Taiga is the world's largest land biome, forming 29% of the world's forest cover. The long cold winter of the far north is unsuitable for plant growth and trees must grow rapidly in the short summer season when the temperature rises and the days are long. Light is very limited under their dense cover and there may be little plant life on the forest floor, although fungi may abound. Similar woodland is found on mountains where the altitude causes the average temperature to be lower thus reducing the length of the growing season. \n"
+
+        "\t\tWhere rainfall is relatively evenly spread across the seasons in temperate regions, temperate broadleaf and mixed forest typified by species like oak, beech, birch and maple is found. Temperate forest is also found in the southern hemisphere, as for example in the Eastern Australia temperate forest, characterised by Eucalyptus forest and open acacia woodland. \n"
+
+        "\t\tIn tropical regions with a monsoon or monsoon-like climate, where a drier part of the year alternates with a wet period as in the Amazon rainforest, different species of broad-leaved trees dominate the forest, some of them being deciduous. In tropical regions with a drier savanna climate and insufficient rainfall to support dense forests, the canopy is not closed, and plenty of sunshine reaches the ground which is covered with grass and scrub. Acacia and baobab are well adapted to living in such areas. \n"
     </string>
 
-    <string name="Tree4">MALABULAK</string>
+    <string name="Menu4">Roots</string>
 
     <string name="Text4">
-        "(Bombax ceiba) Malabulak is often mistaken as the Fire Tree (Delonix regia) – originally from"
-        "Madagascar – or the Caballero (Caesalpinia pulcherrima) – introduced from tropical"
-        "America – because of its similarly vibrant red flowers. In Tagalog, it is also known as"
-        "Buboi-gubat, and Taglinau. It closely resembles the Kapok (Ceiba pentandrum) which is an"
-        "introduced species. Malabulak grows up to 25 meters. It sheds it leaves then gets covered"
-        "in beautiful red flowers that attract lots of insects and birds. Malabulak usually blooms in February."
+        "\t\tThe roots of a tree serve to anchor it to the ground and gather water and nutrients to transfer to all parts of the tree. They are also used for reproduction, defence, survival, energy storage and many other purposes. The radicle or embryonic root is the first part of a seedling to emerge from the seed during the process of germination. This develops into a taproot which goes straight downwards. Within a few weeks lateral roots branch out of the side of this and grow horizontally through the upper layers of the soil. In most trees, the taproot eventually withers away and the wide-spreading laterals remain. Near the tip of the finer roots are single cell root hairs. These are in immediate contact with the soil particles and can absorb water and nutrients such as potassium in solution. The roots require oxygen to respire and only a few species such as the mangrove and the pond cypress (Taxodium ascendens) can live in permanently waterlogged soil. \n"
+
+        "\t\tIn the soil, the roots encounter the hyphae of fungi. Many of these are known as mycorrhiza and form a mutualistic relationship with the tree roots. Some are specific to a single tree species, which will not flourish in the absence of its mycorrhizal associate. Others are generalists and associate with many species. The tree acquires minerals such as phosphorus from the fungus while it obtains the carbohydrate products of photosynthesis from the tree. The hyphae of the fungus can link different trees and a network is formed, transferring nutrients from one place to another. The fungus promotes growth of the roots and helps protect the trees against predators and pathogens. It can also limit damage done to a tree by pollution as the fungus accumulate heavy metals within its tissues. Fossil evidence shows that roots have been associated with mycorrhizal fungi since the early Paleozoic, four hundred million years ago, when the first vascular plants colonised dry land. \n"
+
+        "\t\tSome trees such as the alders (Alnus species) have a symbiotic relationship with Frankia species, a filamentous bacterium that can fix nitrogen from the air, converting it into ammonia. They have actinorhizal root nodules on their roots in which the bacteria live. This process enables the tree to live in low nitrogen habitats where they would otherwise be unable to thrive. The plant hormones called cytokinins initiate root nodule formation, in a process closely related to mycorrhizal association. \n"
+
+        "\t\tIt has been demonstrated that some trees are interconnected through their root system, forming a colony. The interconnections are made by the inosculation process, a kind of natural grafting or welding of vegetal tissues. The tests to demonstrate this networking are performed by injecting chemicals, sometimes radioactive, into a tree, and then checking for its presence in neighbouring trees. \n"
+
+        "\t\tThe roots are, generally, an underground part of the tree, but some tree species have evolved roots that are aerial. The common purposes for aerial roots may be of two kinds, to contribute to the mechanical stability of the tree, and to obtain oxygen from air. An instance of mechanical stability enhancement is the red mangrove that develops prop roots that loop out of the trunk and branches and descend vertically into the mud. A similar structure is developed by the Indian banyan. Many large trees have buttress roots which flare out from the lower part of the trunk. These brace the tree rather like angle brackets and provide stability, reducing sway in high winds. They are particularly prevalent in tropical rainforests where the soil is poor and the roots are close to the surface. \n"
+
+        "\t\tSome tree species have developed root extensions that pop out of soil, in order to get oxygen, when it is not available in the soil because of excess water. These root extensions are called pneumatophores, and are present, among others, in black mangrove and pond cypress. \n"
+    </string>
+
+    <string name="Menu5">Trunk</string>
+
+    <string name="Text5">
+        "\t\tThe main purpose of the trunk is to raise the leaves above the ground, enabling the tree to overtop other plants and outcompete them for light. It also transports water and nutrients from the roots to the aerial parts of the tree, and distributes the food produced by the leaves to all other parts, including the roots. \n"
+
+        "\t\tIn the case of angiosperms and gymnosperms, the outermost layer of the trunk is the bark, mostly composed of dead cells of phellem (cork). It provides a thick, waterproof covering to the living inner tissue. It protects the trunk against the elements, disease, animal attack and fire. It is perforated by a large number of fine breathing pores called lenticels, through which oxygen diffuses. Bark is continually replaced by a living layer of cells called the cork cambium or phellogen. The London plane (Platanus × acerifolia) periodically sheds its bark in large flakes. Similarly, the bark of the silver birch (Betula pendula) peels off in strips. As the tree's girth expands, newer layers of bark are larger in circumference, and the older layers develop fissures in many species. In some trees such as the pine (Pinus species) the bark exudes sticky resin which deters attackers whereas in rubber trees (Hevea brasiliensis) it is a milky latex that oozes out. The quinine bark tree (Cinchona officinalis) contains bitter substances to make the bark unpalatable. Large tree-like plants with lignified trunks in the Pteridophyta, Arecales, Cycadophyta and Poales such as the tree ferns, palms, cycads and bamboos have different structures and outer coverings. \n"
+
+        "\t\tAlthough the bark functions as a protective barrier, it is itself attacked by boring insects such as beetles. These lay their eggs in crevices and the larvae chew their way through the cellulose tissues leaving a gallery of tunnels. This may allow fungal spores to gain admittance and attack the tree. Dutch elm disease is caused by a fungus (Ophiostoma species) carried from one elm tree to another by various beetles. The tree reacts to the growth of the fungus by blocking off the xylem tissue carrying sap upwards and the branch above, and eventually the whole tree, is deprived of nourishment and dies. In Britain in the 1990s, 25 million elm trees were killed by this disease. \n"
+
+        "\t\tThe innermost layer of bark is known as the phloem and this is involved in the transport of the sap containing the sugars made by photosynthesis to other parts of the tree. It is a soft spongy layer of living cells, some of which are arranged end to end to form tubes. These are supported by parenchyma cells which provide padding and include fibres for strengthening the tissue. Inside the phloem is a layer of undifferentiated cells one cell thick called the vascular cambium layer. The cells are continually dividing, creating phloem cells on the outside and wood cells known as xylem on the inside. \n"
+
+        "\t\tThe newly created xylem is the sapwood. It is composed of water-conducting cells and associated cells which are often living, and is usually pale in colour. It transports water and minerals from the roots to the upper parts of the tree. The oldest, inner part of the sapwood is progressively converted into heartwood as new sapwood is formed at the cambium. The conductive cells of the heartwood are blocked in some species, and the surrounding cells are more often dead. Heartwood is usually darker in colour than the sapwood. It is the dense central core of the trunk giving it rigidity. Three quarters of the dry mass of the xylem is cellulose, a polysaccharide, and most of the remainder is lignin, a complex polymer. A transverse section through a tree trunk or a horizontal core will show concentric circles or lighter or darker wood - tree rings. These rings are the annual growth rings There may also be rays running at right angles to growth rings. These are vascular rays which are thin sheets of living tissue permeating the wood. Many older trees may become hollow but may still stand upright for many years. \n"
     </string>
 
 </resources>

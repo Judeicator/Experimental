@@ -21,4 +21,29 @@ public class MenuActivity extends AppCompatActivity {
             startActivity(Shift);
         }
     }
+
+    public void Trees(View View){
+        Intent Shift;
+
+        if (View.getId() == R.id.Menu1){
+            Shift = new Intent(this, Menu1View.class);
+            startActivity(Shift);
+        }
+        else if (View.getId() == R.id.Menu2){
+            Shift = new Intent(this, Menu2View.class);
+            startActivity(Shift);
+        }
+        else if (View.getId() == R.id.Menu3){
+            Shift = new Intent(this, Menu3View.class);
+            startActivity(Shift);
+        }
+        else if (View.getId() == R.id.Menu4){
+            Shift = new Intent(this, Menu4View.class);
+            startActivity(Shift);
+        }
+        else if (View.getId() == R.id.Menu5){
+            Shift = new Intent(this, Menu5View.class);
+            startActivity(Shift);
+        }
+    }
 }
