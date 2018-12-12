@@ -27,6 +27,25 @@
         <activity android:name=".Menu3View" />
         <activity android:name=".Menu4View" />
         <activity android:name=".Menu5View" />
+        <activity android:name=".Menu6View" />
+        <activity android:name=".Menu7View" />
+        <activity android:name=".Menu8View" />
+        <activity android:name=".Menu9View" />
+        <activity android:name=".Menu10View" />
+        <activity android:name=".Menu11View" />
+        <activity android:name=".Menu12View" />
+        <activity android:name=".Menu13View" />
+        <activity android:name=".Menu14View" />
+        <activity android:name=".Menu15View" />
+        <activity android:name=".Menu16View" />
+        <activity android:name=".Menu17View" />
+        <activity android:name=".Menu18View" />
+        <activity android:name=".Menu19View" />
+        <activity android:name=".Menu20View" />
+        <activity android:name=".Menu21View" />
+        <activity android:name=".Menu22View" />
+        <activity android:name=".Menu23View" />
+        <activity android:name=".Menu24View" />
     </application>
 
 </manifest>
